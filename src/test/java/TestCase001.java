@@ -3,5 +3,5 @@ public class TestCase001 {
     // work 2
     // finished ready to push
     // ready to open pull request
-    // discuss and eventualy merge to commit
+    // discuss and eventually merge to commit
 }
