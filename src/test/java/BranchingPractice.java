@@ -7,7 +7,7 @@ public class BranchingPractice {
         // shared project on github
 
         // reviewing on new branch
-        //doin g more
+        // doing more
 
     }
 }
